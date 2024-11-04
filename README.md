@@ -31,6 +31,7 @@ https://gusty-tail-7d3.notion.site/Hammy-s-Cheat-Day-11c5621b054b80d39bd1f9b17f5
   
  	•	game.pde: The main game code for Processing
 	•	pet-chew.png, pet-eat.png: Images for Hammy’s animations
+ 	•	pet-happy.png, pet-sad.png, pet.png: Unused Images for Hammy’s animations
 	•	broccoli.png, food1.png to food8.png: Images for food items
 README.txt: Project readme
 installation_instructions.txt: Additional instructions for setup and installation
