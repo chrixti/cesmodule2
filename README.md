@@ -61,5 +61,4 @@ You have one minute to help Hammy eat as much as he can!
 
 ## Additional Documentation
 
-See the blog post linked above for more in-depth project insights, additional installation steps, and troubleshooting tips.
-
+See the blog post linked above for more in-depth project insights and information!
