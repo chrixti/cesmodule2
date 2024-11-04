@@ -25,8 +25,10 @@ https://gusty-tail-7d3.notion.site/Hammy-s-Cheat-Day-11c5621b054b80d39bd1f9b17f5
 ## File Structure
 
  /arduino
+
 	•	arduino.ino: Arduino code
   /game
+  
  	•	game.pde: The main game code for Processing
 	•	pet-chew.png, pet-eat.png: Images for Hammy’s animations
 	•	broccoli.png, food1.png to food8.png: Images for food items
