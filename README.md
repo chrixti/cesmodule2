@@ -19,8 +19,7 @@ Read more on the blog!
 https://gusty-tail-7d3.notion.site/Hammy-s-Cheat-Day-11c5621b054b80d39bd1f9b17f515c7d?pvs=74
 
 ## Preview
-
-(GIF/video of gameplay to showcase the joystick control, Hammy’s animations, and point system)
+https://youtu.be/XS9o-rMOGkw
 
 ## File Structure
 
