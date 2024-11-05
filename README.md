@@ -62,11 +62,13 @@ mod2diagram.fzz: Fritzing Diagram of Circuit
 
 ### Objective
 Control Hammy using the joystick, pressing the button to open his mouth and eat food. Avoid broccoli, as it will deduct points.
-	2.	Scoring
+Scoring
+
 	•	Regular food: +1 point
 	•	Broccoli: -1 point
-	3.	Time Limit
-You have one minute to help Hammy eat as much as he can!
+Time Limit
+
+	•	You have one minute to help Hammy eat as much as he can!
 
 ## Additional Documentation
 
