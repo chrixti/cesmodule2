@@ -33,13 +33,21 @@ https://gusty-tail-7d3.notion.site/Hammy-s-Cheat-Day-11c5621b054b80d39bd1f9b17f5
 	•	pet-chew.png, pet-eat.png: Images for Hammy’s animations
  	•	pet-happy.png, pet-sad.png, pet.png: Unused Images for Hammy’s animations
 	•	broccoli.png, food1.png to food8.png: Images for food items
+  /enclosure design
+
+	•	Bottom Button Piece.stl: stl file for Bottom of Button Enclosure (3D Printed)
+ 	•	Bottom Joystick.stl: stl file for Bottom of Joystick Enclosure (3D Printed)
+	•	Joystick Top.stl: stl file for Top of Button Enclosure (3D Printed)
+	•	Top Button Piece.stl: stl file for Top of Button Enclosure (3D Printed)
+
 README.txt: Project readme
-installation_instructions.txt: Additional instructions for setup and installation
+mod2diagram.fzz: Fritzing Diagram of Circuit
+
 
 ## Installation & Setup
 
 	1.	Hardware Setup
-		•	Connect a joystick and button to your ESP32, following the wiring diagrams in installation_instructions.txt.
+		•	Connect a joystick and button to your ESP32, following the wiring diagrams in mod2diagram.fzz file.
 		•	Ensure the ESP32’s USB cable is connected to your computer.
 	2.	Software Requirements
 		•	Arduino IDE for uploading the serial communication code to the ESP32.
